@@ -1,0 +1,12 @@
+html, body {
+	background-color: #21556b;
+}
+#logo {
+	background-image: url('../logo.jpg');
+    background-size:250px 250px;
+    width:250px;
+    height:250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 22em;
+}
